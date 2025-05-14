@@ -32,7 +32,7 @@ for (const elem of eteltomb) {
     <div class="col-sm-4">
     <div class="dobozdiv">
     <div>${elem.etelNeve}</div>
-    <div><img class="img-fluid" src="etelek/${elem.kep}" ></div>
+    <div><img class="img-fluid" src="${elem.kep}" ></div>
     </div>
     </div>
     `
