@@ -33,7 +33,7 @@ for (const elem of animetomb) {
     <div class="col-sm-4">
     <div class="animediv">
     <div>${elem.aNeve}</div>
-    <div><img class="img-fluid" src="etelek/${elem.kkep}"></div>
+    <div><img class="img-fluid" src="${elem.kkep}"></div>
     </div>
     </div>
     `
