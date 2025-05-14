@@ -32,7 +32,7 @@ for (const elem of turiztomb) {
     <div class="col-sm-4">
     <div class="turizdoboz">
     <div>${elem.latvanyNeve}</div>
-    <div><img class="img-fluid" src="turizmuskepek/${elem.tkep}"></div>
+    <div><img class="img-fluid" src="${elem.tkep}"></div>
     </div>
     </div>
     `
